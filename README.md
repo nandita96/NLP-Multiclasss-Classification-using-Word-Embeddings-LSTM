@@ -1,4 +1,5 @@
 # NLP-Multiclasss-Classification-using-Word-Embeddings-LSTM
+
 In this project, i have made use of OneHot Encoding to convert the text-based categories into numerical categories and subsequently, applied LSTM to build the model and classify news into respective categories. I have presented how accuracy was affected by the number of categories used in the dataset. I have achieved a competent level of accuracy with the model and have seen that with removal of categories difficult to place, the model has achieved higher accuracy in training as well as validation.
 
 It has done with three categories:
